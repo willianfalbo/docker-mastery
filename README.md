@@ -1,8 +1,8 @@
-# Udemy Course Docker Mastery: with Kubernetes+Swarm from a Docker Captain
+# Bret Fisher's Course Docker Mastery: with Kubernetes+Swarm from a Docker Captain
 
 > Build, test, deploy containers with the best mega-course on Docker, Kubernetes, Compose, Swarm and Registry using DevOps
 
-This repo is for use in my Udemy Courses "Docker Mastery" and "Swarm Mastery"
+This repo is for use in my Bret Fisher's Courses "Docker Mastery" and "Swarm Mastery"
 
 Get these courses for with my "cheapest on the Internet" coupon links:
 
